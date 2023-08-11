@@ -1,0 +1,21 @@
+21 When implementing linear regression of some dependent variable 𝑦 on the set of independent variables 𝐱 = (𝑥₁, …, 𝑥ᵣ), where 𝑟 is the number of predictors, which of the following statements will be true?
+a) 𝛽₀, 𝛽₁, …, 𝛽ᵣ are the regression coefficients
+22 What indicates that you have a perfect fit in linear regression?
+d) The value 𝑅² = 1, which corresponds to SSR = 0
+23) In simple linear regression, the value of what shows the point where the estimated regression line crosses the 𝑦 axis?
+b) B0
+24) Check out these four linear regression plots:
+Which one represents an underfitted model?
+d) The top-left plot
+25) There are five basic steps when you’re implementing linear regression:
+d) d, b, e, a, c
+26 ) Which of the following are optional parameters to LinearRegression in scikit-learn?
+b) fit_intercept c) normalize d) copy_X e) n_jobs
+27) While working with scikit-learn, in which type of regression do you need to transform the array of inputs to include nonlinear terms such as 𝑥²?
+c) Polynomial regression
+28) You should choose statsmodels over scikit-learn when:
+c) You need more detailed results
+29) _________ is a fundamental package for scientific computing with Python. It offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more. It provides a high-level syntax that makes it accessible and productive
+b) Numpy
+30 ) _________ is a Python data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics that allow you to explore and understand your data. It integrates closely with pandas data structures.
+b) Seaborn
